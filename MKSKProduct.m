@@ -2,7 +2,7 @@
 //  MKSKProduct.m
 //  MKStoreKit (Version 5.0)
 //
-//  Created by Mugunth Kumar (@mugunthkumar) on 04/07/11.
+//  Created by Mugunth Kumar (@mugunthkumar) on 04/07/11. 
 //  Copyright (C) 2011-2020 by Steinlogic Consulting And Training Pte Ltd.
 
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
